@@ -3,10 +3,15 @@ Parking has always been a challenging problem in North American regions as they 
 
 # High Fidelity Prototype
 ![](Capture.png)
+abc
 ![](Capture1.png)
+abc
 ![](Capture2.png)
+abc
 ![](Capture3.png)
+abc
 ![](Capture4.png)
+abc
 ![](Capture5.png)
 ![](Capture6.png)
 ![](Capture7.png)
